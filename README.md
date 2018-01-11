@@ -1,7 +1,8 @@
 # deep_artist
 
 ## This project requires:
-	- https://storage.googleapis.com/openimages/2017_07/images_2017_07.tar.gz
-		- Download this and save it in the main project folder
-	- tensorflow
-	- jupyter notebook
+	 - python 3.6.3 | Anaconda, Inc.
+ 	 - numpy 1.12.1
+ 	 - tensorflow 1.1.0
+ 	 - matplotlib 2.1.0
+	 - Jupter Notebook
